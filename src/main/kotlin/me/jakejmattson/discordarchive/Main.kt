@@ -1,6 +1,6 @@
-package io.github.jakejmattson.discordarchive
+package me.jakejmattson.discordarchive
 
-import io.github.jakejmattson.discordarchive.extensions.toHTML
+import me.jakejmattson.discordarchive.extensions.toHTML
 import kotlinx.html.*
 import kotlinx.html.stream.appendHTML
 import net.dv8tion.jda.api.entities.*

@@ -1,4 +1,4 @@
-package io.github.jakejmattson.discordarchive.extensions
+package me.jakejmattson.discordarchive.extensions
 
 import kotlinx.html.*
 import net.dv8tion.jda.api.entities.Message
